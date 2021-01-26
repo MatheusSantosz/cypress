@@ -2,7 +2,7 @@
 describe('teste', () => {
 
     it('devem poder inserir os dados para contato', () => {
-
+        /// comentando
         /// cy.get - busca um elemento
         /// .type - insere um texto
         cy.visit('inoveteste.com.br/contato');
